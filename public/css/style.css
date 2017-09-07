@@ -1,0 +1,65 @@
+.btn-h1-spacing{
+    margin-top: 18px;
+}
+.form-spacing-top{
+    margin-top: 30px;
+}
+
+.btn-login-spacing{
+    margin-top: 8px;
+}
+
+/*tags.show*/
+.btn-margin{
+    margin-top: 20px;
+}
+
+/*Comments Box*/
+.comment{
+    margin-bottom: 45px;
+}
+
+.author-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    float: left;
+}
+
+.author-name{
+    float: left;
+    margin-left: 15px;
+}
+
+.author-name>h4{
+    margin: 5px 0;
+}
+
+.author-time{
+    font-size: 11px;
+    font-style: italic;
+    color: #aaa;
+}
+
+.comment-content{
+    margin-left: 65px;
+    font-size: 16px;
+    line-height: 1.3em;
+    clear: both;
+}
+.comments-title{
+    margin-bottom: 45px;
+}
+
+.comments-title>span{
+    margin-right: 10px;
+}
+
+/*Comments post/show*/
+#backend-comments{
+    margin-top: 50px;
+}
+
+.th-width{
+    width: 70px;
+}
